@@ -1,0 +1,6 @@
+{
+  "name": "MediaDL",
+  "description": "High-speed media and video downloader with customizable storage path, format options, real-time progress, and futuristic blue-purple dark UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
